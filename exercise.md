@@ -97,6 +97,7 @@ set boxwidth 0.6
 
 set yrange [0:18]
 
+
 set title "誕生月"
 set ylabel "人"
 
